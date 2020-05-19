@@ -1,5 +1,25 @@
 # Compiled class file
 *.class
+out/
+logs/
+*dependency-reduced-pom.xml
+.classpath
+.project
+.settings/
+.idea/
+target/
+work/
+devenv
+*.log*
+*.iml
+*.versionsBackup
+!NOTICE-BIN
+!LICENSE-BIN
+.DS_Store
+/.svn
+eimPlugin
+/.gradle/
+/build/
 
 # Log file
 *.log
